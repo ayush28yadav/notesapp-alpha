@@ -1,4 +1,4 @@
-import { MdNaturePeople } from 'react-icons/md';
+
 import AddNote from './AddNote';
 import Note from './Note'
 const NotesList = ({notes, handleAddNote, handleDeleteNote}) =>{
